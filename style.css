@@ -1,0 +1,28 @@
+.container{
+  margin-top: 10%;
+  height: 100%;
+  width: 100%;
+}
+
+.carousel, .item, .active {
+height:100%;
+}
+.carousel-inner {
+height:100%;
+}
+
+.carousel{
+  height: 500px;
+  background-color: darkgrey;
+}
+body{
+  background-color: darkgrey;
+}
+.headshot{
+  height: 500px;
+  width: 400px;
+}
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
